@@ -2,7 +2,9 @@
 <img alt="Logo" src="https://raw.githubusercontent.com/elementary-data/elementary/master/static/header_git.png" width="1000">
 </p>
 
-<p align="center">Open Source Data Observability for Analytics Engineers</p>
+<h2 align="center">
+Open Source Data Observability for Data & Analytics Engineers
+</h2>
 
 <p align="center">
 <a href="https://join.slack.com/t/elementary-community/shared_invite/zt-uehfrq2f-zXeVTtXrjYRbdE_V6xq4Rg"><img src="https://img.shields.io/badge/join-Slack-ff69b4"/></a>
