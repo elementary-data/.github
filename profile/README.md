@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Github Elementary banner" src="https://res.cloudinary.com/diuctyblm/image/upload/v1690370210/github_main_banner_duygek.png" width="1000">
+<img alt="Github Elementary banner" src="https://res.cloudinary.com/do5hrgokq/image/upload/v1764679688/image_22_ssyggn.png" width="1000">
 </p>
 
 <h2 align="center">
